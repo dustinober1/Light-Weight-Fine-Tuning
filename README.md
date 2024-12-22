@@ -1,4 +1,3 @@
-```markdown
 # Light-Weight Fine-Tuning
 
 This repository demonstrates how to apply parameter-efficient fine-tuning techniques to adapt large language models (LLMs) for specific tasks without substantial computational resources.
@@ -69,15 +68,10 @@ After fine-tuning, the model's performance improved significantly on the target 
 - Hugging Face PEFT Library: [https://github.com/huggingface/peft](https://github.com/huggingface/peft)
 - LoRA: Low-Rank Adaptation of Large Language Models
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 Special thanks to the contributors of the Hugging Face ecosystem for providing robust tools for model training and fine-tuning.
 
 ---
 
-Feel free to explore, modify, and utilize the code in this repository for your own projects. Contributions and feedback are welcome!
-```
+Feel free to explore, modify, and utilize the code in this repository for your own projects. Contributions and feedback are welcome! 
